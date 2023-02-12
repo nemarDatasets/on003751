@@ -1,0 +1,12 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	8.97	1.01	5.0	5.0	3.0	3.05	{}	n/a	n/a	n/a
+13.m4v	8.92	4.73	8.99	5.0	5.0	4.91	{'1': [u'Amused: Finding something funny or entertaining.', u'', u'', u'', ''], '0': [u'Joyous: Full of happiness and joy', u'', u'', u'', ''], '3': [u'Adventorous: Willing to take risks or to try out new methods, ideas, or experiences', u'', u'', u'', ''], '2': [u'', u'', u'', u'Contented: Feeling or expressing happiness or satisfaction', '']}	HVHA	['very much', 'very much', 'very much', 'very much']	[19.56438112258911, 21.76805591583252, 33.494422912597656, 34.25470805168152]
+16.mp4	1.06	2.97	9.0	1.0	5.0	5.0	{'1': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', ''], '0': [u'', u'Hate: Have a strong aversion to (something)', u'', u'', '']}	HVHA	['very much', 'very much']	[6.774103879928589, 31.196866035461426]
+27.mp4	1.01	1.03	6.87	1.0	5.0	4.94	{'0': [u'', u'', u'Sad: Feeling or showing sorrow, unhappy', u'', '']}	HVHA	['very much']	[39.510313987731934]
+15.mp4	1.03	9.0	8.88	1.0	5.0	2.96	{'0': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', '']}	HVHA	['very much']	[56.884063959121704]
+5.mp4	1.03	1.06	3.03	1.0	4.0	1.1	{}	n/a	n/a	n/a
+neutral_2.mp4	7.03	3.07	7.03	5.0	4.0	1.11	{'0': [u'Delighted: Feeling or showing great pleasure', u'', u'', u'', '']}	HVHA	['very much']	[37.22659087181091]
+1.mp4	1.05	6.04	6.95	1.0	4.0	4.95	{'0': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', '']}	HVHA	['very much']	[48.963560819625854]
+3.mp4	8.99	1.1	8.94	5.0	5.0	4.99	{'0': [u'', u'', u'', u'Pleased: Feeling or showing pleasure and satisfaction, especially at an event or a situation', '']}	HVHA	['very much']	[54.47045397758484]
+12.m4v	8.97	8.9	8.97	5.0	5.0	4.96	{'0': [u'Delighted: Feeling or showing great pleasure', u'', u'', u'', '']}	HVHA	['very much']	[25.286646842956543]
+24.mp4	1.0	7.72	7.03	1.0	4.0	1.0	{'0': [u'', u'Distress: Suffering from extreme anxiety, sorrow, or pain', u'', u'', '']}	HVHA	['very much']	[40.88036894798279]

@@ -1,0 +1,11 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+2.m4v	2.05	6.95	2.8	4.0	4.0	1.0	{'0': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', '']}	HVHA	['quit a bit']	[51.78641200065613]
+7.mp4	1.33	6.95	1.64	4.0	1.0	1.0	{}	n/a	n/a	n/a
+6.mp4	6.97	2.22	6.54	3.0	4.0	1.0	{}	n/a	n/a	n/a
+27.mp4	1.16	6.39	4.85	2.0	2.0	1.0	{'1': [u'', u'Distress: Suffering from extreme anxiety, sorrow, or pain', u'', u'', ''], '0': [u'', u'Distress: Suffering from extreme anxiety, sorrow, or pain', u'', u'', '']}	HVHA	['quit a bit', 'quit a bit']	[39.21260404586792, 58.83825612068176]
+neutral_2.mp4	5.0	1.0	5.04	3.0	3.0	1.0	{}	n/a	n/a	n/a
+15.mp4	4.04	4.02	4.04	2.0	3.0	1.0	{'0': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', '']}	HVHA	['moderately']	[40.70954704284668]
+4.mp4	1.0	7.99	2.03	4.0	1.0	1.0	{}	n/a	n/a	n/a
+12.m4v	8.57	7.78	7.99	5.0	4.0	3.99	{'1': [u'Joyous: Full of happiness and joy', u'', u'', u'', ''], '0': [u'Joyous: Full of happiness and joy', u'', u'', u'', '']}	HVHA	['quit a bit', 'quit a bit']	[32.935768127441406, 34.507112979888916]
+5.mp4	1.41	6.02	4.98	2.0	2.0	1.0	{'0': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', '']}	HVHA	['very much']	[43.705668926239014]
+16.mp4	1.0	8.47	3.03	2.0	1.0	1.0	{'0': [u'', u'Hate: Have a strong aversion to (something)', u'', u'', '']}	HVHA	['very much']	[51.93924117088318]

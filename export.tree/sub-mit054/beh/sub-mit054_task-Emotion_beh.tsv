@@ -1,0 +1,12 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	1.0	2.09	3.96	2.0	1.0	1.0	{}	n/a	n/a	n/a
+8.m4v	8.01	8.95	5.02	4.0	4.0	3.01	{}	n/a	n/a	n/a
+5.mp4	1.0	1.97	7.97	1.0	1.0	1.01	{}	n/a	n/a	n/a
+15.mp4	1.0	5.04	8.97	1.0	3.0	1.0	{'0': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', '']}	HVHA	['quit a bit']	[35.360235929489136]
+9.m4v	5.02	9.0	8.97	3.0	5.0	5.0	{'0': [u'', u'Alarmed: An anxious awareness of danger', u'', u'', '']}	HVHA	['moderately']	[26.2939670085907]
+2.m4v	1.03	7.97	7.03	1.0	2.0	3.04	{'1': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', ''], '0': [u'', u'Hate: Have a strong aversion to (something)', u'', u'', '']}	HVHA	['moderately', 'quit a bit']	[31.23372983932495, 59.66271090507507]
+1.mp4	1.0	9.0	5.0	3.0	3.0	2.04	{'0': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', '']}	HVHA	['quit a bit']	[24.436419248580933]
+neutral_2.mp4	5.0	5.04	5.95	3.0	3.0	2.0	{}	n/a	n/a	n/a
+17.mp4	1.01	8.95	2.99	3.0	3.0	1.0	{'1': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', ''], '0': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', '']}	HVHA	['moderately', 'moderately']	[9.714897871017456, 11.684617042541504]
+16.mp4	1.01	5.0	4.98	3.0	3.0	1.97	{'1': [u'', u'Hate: Have a strong aversion to (something)', u'', u'', ''], '0': [u'', u'Frustrated: Feeling or expressing distress and annoyance resulting from an inability \nto change or achieve somethin', u'', u'', '']}	HVHA	['moderately', 'a little']	[20.664497137069702, 57.97465109825134]
+3.mp4	5.04	4.96	5.0	3.0	2.0	1.98	{}	n/a	n/a	n/a

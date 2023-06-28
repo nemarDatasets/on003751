@@ -1,0 +1,12 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	4.92	1.95	1.35	1.0	1.0	1.0	{}	n/a	n/a	n/a
+27.mp4	1.06	1.0	2.92	1.0	2.0	1.99	{'0': [u'', u'', u'Miserable: wretchedly unhappy or uncomfortable', u'', '']}	HVHA	['quit a bit']	[41.86781716346741]
+15.mp4	1.1	6.87	2.05	1.0	1.0	2.32	{'0': [u'', u'Distress: Suffering from extreme anxiety, sorrow, or pain', u'', u'', '']}	HVHA	['moderately']	[51.39900207519531]
+24.mp4	1.0	1.03	1.0	1.0	1.0	1.0	{'1': [u'', u'', u'Despondent: In low spirits from loss of hope or courage.', u'', ''], '0': [u'', u'', u'Miserable: wretchedly unhappy or uncomfortable', u'', '']}	HVHA	['moderately', 'moderately']	[17.771009922027588, 46.73448991775513]
+5.mp4	1.03	7.01	2.99	1.0	1.0	3.21	{'0': [u'', u'Hate: Have a strong aversion to (something)', u'', u'', '']}	HVHA	['very much']	[9.19687294960022]
+9.m4v	6.93	6.93	6.02	4.0	5.0	1.0	{}	n/a	n/a	n/a
+12.m4v	8.45	7.12	7.06	4.0	3.0	4.56	{'1': [u'Joyous: Full of happiness and joy', u'', u'', u'', ''], '0': [u'Happy: Feeling or showing pleasure or contentment', u'', u'', u'', '']}	HVHA	['quit a bit', 'moderately']	[8.463083267211914, 52.3169481754303]
+7.mp4	1.0	6.37	3.86	2.0	1.0	1.0	{'1': [u'', u'Startled: Feeling or showing sudden shock or alarm.', u'', u'', ''], '0': [u'', u'', u'', u'', '']}	HVHA	['not at all', 'moderately']	[1.2621161937713623, 50.725056171417236]
+neutral_2.mp4	5.0	1.05	5.02	1.0	1.0	1.0	{}	n/a	n/a	n/a
+16.mp4	1.0	3.46	1.1	1.0	2.0	1.08	{'1': [u'', u'', u'Sad: Feeling or showing sorrow, unhappy', u'', ''], '0': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', '']}	HVHA	['quit a bit', 'moderately']	[14.138597249984741, 57.074254274368286]
+1.mp4	1.2	4.96	1.59	3.0	5.0	1.0	{}	n/a	n/a	n/a

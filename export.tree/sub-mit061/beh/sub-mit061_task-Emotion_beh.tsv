@@ -1,0 +1,12 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	5.08	2.97	2.99	3.0	4.0	2.03	{'0': [u'', u'', u'', u'No Emotion From List', '']}	HVHA	['not at all']	[32.38010501861572]
+4.mp4	3.17	2.94	1.95	2.0	4.0	1.0	{}	n/a	n/a	n/a
+9.m4v	6.95	7.7	6.87	4.0	5.0	1.91	{'1': [u'Adventorous: Willing to take risks or to try out new methods, ideas, or experiences', u'', u'', u'', ''], '0': [u'Happy: Feeling or showing pleasure or contentment', u'', u'', u'', '']}	HVHA	['not at all', 'not at all']	[16.99414896965027, 26.750748872756958]
+8.m4v	7.01	7.16	6.97	4.0	5.0	2.0	{'1': [u'Happy: Feeling or showing pleasure or contentment', u'', u'', u'', ''], '0': [u'Aroused: Sexually excited', u'', u'', u'', ''], '2': [u'Aroused: Sexually excited', u'', u'', u'', '']}	HVHA	['not at all', 'not at all', 'not at all']	[10.720300197601318, 33.6963791847229, 46.597008228302]
+17.mp4	6.95	6.49	5.06	4.0	4.0	2.11	{'0': [u'', u'Afraid: Worried that something undesirable will occur or be done', u'', u'', '']}	HVHA	['not at all']	[49.97786092758179]
+13.m4v	7.1	5.58	4.9	3.0	5.0	2.36	{}	n/a	n/a	n/a
+3.mp4	6.99	2.94	4.32	3.0	5.0	1.25	{}	n/a	n/a	n/a
+12.m4v	9.0	7.06	6.02	5.0	5.0	4.35	{'0': [u'Joyous: Full of happiness and joy', u'', u'', u'', '']}	HVHA	['not at all']	[4.802239894866943]
+neutral_2.mp4	5.04	2.94	4.0	3.0	2.0	1.72	{}	n/a	n/a	n/a
+5.mp4	1.93	3.19	3.01	2.0	3.0	1.87	{'0': [u'', u'', u'Sad: Feeling or showing sorrow, unhappy', u'', '']}	HVHA	['not at all']	[48.191811084747314]
+1.mp4	5.0	6.77	4.07	3.0	5.0	1.61	{'0': [u'Excited: Very enthusiastic and eager', u'', u'', u'', '']}	HVHA	['not at all']	[48.45364499092102]

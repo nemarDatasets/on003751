@@ -1,0 +1,108 @@
+onset	duration	trial_type	label	description
+15548.668429	1000.0	base	baseline	n/a
+35546.168592	1000.0	bend	baseEnd	Baseline Ends here
+37465.168443	1000.0	trno	TrialNo	Showing Trial Number Here
+37777.918205	1000.0	fixL	Fixation Loop	Fixation Loop
+42868.166696	1000.0	stm	neutral_1_1	Showing the stimulation
+57992.918696	1000.0	vlnc	Valence	Showing the Valence
+59384.668339	1000.0	arsl	Arousal	Showing the Arousal
+61064.668279	1000.0	dmns	Dominance	Showing the Dominance
+62247.416843	1000.0	lkng	Liking	Showing the Liking
+63492.919039	1000.0	fmrt	Familiarity	Showing the Familiarity
+64658.918045	1000.0	relv	Relevance	Showing the Relevance
+66423.168685	1000.0	trno	TrialNo	Showing Trial Number Here
+66752.668004	1000.0	fixL	Fixation Loop	Fixation Loop
+70371.668693	1000.0	stm	8_2	Showing the stimulation
+85496.418178	1000.0	vlnc	Valence	Showing the Valence
+86537.16892	1000.0	arsl	Arousal	Showing the Arousal
+87076.167203	1000.0	dmns	Dominance	Showing the Dominance
+88518.168032	1000.0	lkng	Liking	Showing the Liking
+89424.917288	1000.0	fmrt	Familiarity	Showing the Familiarity
+90720.416699	1000.0	relv	Relevance	Showing the Relevance
+91421.667673	1000.0	trno	TrialNo	Showing Trial Number Here
+91752.668191	1000.0	fixL	Fixation Loop	Fixation Loop
+94306.167215	1000.0	stm	7_3	Showing the stimulation
+109430.916701	1000.0	vlnc	Valence	Showing the Valence
+110463.168193	1000.0	arsl	Arousal	Showing the Arousal
+111361.667141	1000.0	dmns	Dominance	Showing the Dominance
+114182.668738	1000.0	lkng	Liking	Showing the Liking
+115152.418055	1000.0	fmrt	Familiarity	Showing the Familiarity
+115866.918303	1000.0	relv	Relevance	Showing the Relevance
+116973.417532	1000.0	trno	TrialNo	Showing Trial Number Here
+117287.917435	1000.0	fixL	Fixation Loop	Fixation Loop
+122223.416716	1000.0	stm	neutral_2_4	Showing the stimulation
+137348.168716	1000.0	vlnc	Valence	Showing the Valence
+138464.167994	1000.0	arsl	Arousal	Showing the Arousal
+139228.916913	1000.0	dmns	Dominance	Showing the Dominance
+139910.16699	1000.0	lkng	Liking	Showing the Liking
+140503.417142	1000.0	fmrt	Familiarity	Showing the Familiarity
+141293.417383	1000.0	relv	Relevance	Showing the Relevance
+142266.666982	1000.0	trno	TrialNo	Showing Trial Number Here
+142593.168933	1000.0	fixL	Fixation Loop	Fixation Loop
+146362.666693	1000.0	stm	13_5	Showing the stimulation
+161487.418693	1000.0	vlnc	Valence	Showing the Valence
+162477.918249	1000.0	arsl	Arousal	Showing the Arousal
+163374.667056	1000.0	dmns	Dominance	Showing the Dominance
+164086.916763	1000.0	lkng	Liking	Showing the Liking
+165064.918902	1000.0	fmrt	Familiarity	Showing the Familiarity
+166084.667947	1000.0	relv	Relevance	Showing the Relevance
+167330.416571	1000.0	trno	TrialNo	Showing Trial Number Here
+167618.417926	1000.0	fixL	Fixation Loop	Fixation Loop
+173414.918873	1000.0	stm	3_6	Showing the stimulation
+188539.668359	1000.0	vlnc	Valence	Showing the Valence
+189504.916593	1000.0	arsl	Arousal	Showing the Arousal
+190010.999143	1000.0	IBEG	Impedances Begin	n/a
+190328.418463	1000.0	dmns	Dominance	Showing the Dominance
+190988.666844	1000.0	lkng	Liking	Showing the Liking
+191490.167845	1000.0	fmrt	Familiarity	Showing the Familiarity
+191954.166535	1000.0	relv	Relevance	Showing the Relevance
+193525.0	115287.0	boundary	n/a	n/a
+284620.0	76037.80525	boundary	n/a	n/a
+289747.872049	1000.0	trno	TrialNo	Showing Trial Number Here
+290080.622709	1000.0	fixL	Fixation Loop	Fixation Loop
+292567.372447	1000.0	stm	27_7	Showing the stimulation
+299061.873028	1000.0	clic	click	Click event have been performed
+302823.371938	1000.0	clic	click	Click event have been performed
+307691.87299	1000.0	vlnc	Valence	Showing the Valence
+308649.122375	1000.0	arsl	Arousal	Showing the Arousal
+309626.873056	1000.0	dmns	Dominance	Showing the Dominance
+310613.37193	1000.0	lkng	Liking	Showing the Liking
+311469.872514	1000.0	fmrt	Familiarity	Showing the Familiarity
+312798.873553	1000.0	relv	Relevance	Showing the Relevance
+313973.37181	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+327108.871876	1000.0	trno	TrialNo	Showing Trial Number Here
+327422.122037	1000.0	fixL	Fixation Loop	Fixation Loop
+331087.373229	1000.0	stm	15_8	Showing the stimulation
+346211.873772	1000.0	vlnc	Valence	Showing the Valence
+347482.373318	1000.0	arsl	Arousal	Showing the Arousal
+348669.371507	1000.0	dmns	Dominance	Showing the Dominance
+349463.37243	1000.0	lkng	Liking	Showing the Liking
+350253.372671	1000.0	fmrt	Familiarity	Showing the Familiarity
+351072.37346	1000.0	relv	Relevance	Showing the Relevance
+352669.372442	1000.0	trno	TrialNo	Showing Trial Number Here
+353007.373525	1000.0	fixL	Fixation Loop	Fixation Loop
+355510.623878	1000.0	stm	9_9	Showing the stimulation
+359205.122045	1000.0	clic	click	Click event have been performed
+361508.122025	1000.0	clic	click	Click event have been performed
+366385.122328	1000.0	clic	click	Click event have been performed
+370635.373364	1000.0	vlnc	Valence	Showing the Valence
+371404.371908	1000.0	arsl	Arousal	Showing the Arousal
+371905.87291	1000.0	dmns	Dominance	Showing the Dominance
+372641.37234	1000.0	lkng	Liking	Showing the Liking
+373289.123303	1000.0	fmrt	Familiarity	Showing the Familiarity
+374484.371799	1000.0	relv	Relevance	Showing the Relevance
+375378.872579	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+387007.372672	1000.0	trno	TrialNo	Showing Trial Number Here
+387343.872557	1000.0	fixL	Fixation Loop	Fixation Loop
+389951.872392	1000.0	stm	24_10	Showing the stimulation
+393876.121877	1000.0	clic	click	Click event have been performed
+398978.872816	1000.0	clic	click	Click event have been performed
+402840.62264	1000.0	clic	click	Click event have been performed
+405076.372935	1000.0	vlnc	Valence	Showing the Valence
+405991.621441	1000.0	arsl	Arousal	Showing the Arousal
+407069.871979	1000.0	dmns	Dominance	Showing the Dominance
+407667.623213	1000.0	lkng	Liking	Showing the Liking
+408528.373422	1000.0	fmrt	Familiarity	Showing the Familiarity
+409661.122257	1000.0	relv	Relevance	Showing the Relevance
+410893.873064	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+426689.371778	1000.0	stop	Stop Event	n/a

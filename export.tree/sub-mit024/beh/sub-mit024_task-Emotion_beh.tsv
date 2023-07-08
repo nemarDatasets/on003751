@@ -1,0 +1,11 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	4.98	4.5	5.02	3.0	2.0	2.03	{}	n/a	n/a	n/a
+8.m4v	5.64	5.77	6.33	4.0	5.0	3.77	{}	n/a	n/a	n/a
+7.mp4	3.01	4.9	4.32	3.0	4.0	1.64	{}	n/a	n/a	n/a
+neutral_2.mp4	5.06	2.86	3.24	3.0	2.0	1.2	{}	n/a	n/a	n/a
+13.m4v	7.24	4.92	5.06	4.0	3.0	2.58	{}	n/a	n/a	n/a
+3.mp4	5.98	4.02	4.17	4.0	4.0	2.78	{}	n/a	n/a	n/a
+27.mp4	3.55	4.44	3.55	2.0	3.0	2.98	{'1': [u'', u'', u'Sad: Feeling or showing sorrow, unhappy', u'', ''], '0': [u'', u'', u'Sad: Feeling or showing sorrow, unhappy', u'', '']}	HVHA	['a little', 'moderately']	[25.99382209777832, 41.03903293609619]
+15.mp4	3.53	6.16	5.68	2.0	2.0	1.88	{}	n/a	n/a	n/a
+9.m4v	6.64	7.1	7.33	5.0	4.0	2.36	{'1': [u'Adventorous: Willing to take risks or to try out new methods, ideas, or experiences', u'', u'', u'', ''], '0': [u'Happy: Feeling or showing pleasure or contentment', u'', u'', u'', ''], '2': [u'Adventorous: Willing to take risks or to try out new methods, ideas, or experiences', u'', u'', u'', '']}	HVHA	['moderately', 'quit a bit', 'quit a bit']	[14.78060793876648, 23.99199891090393, 43.50040006637573]
+24.mp4	1.32	2.67	2.74	1.0	3.0	1.24	{'1': [u'', u'', u'Despondent: In low spirits from loss of hope or courage.', u'', ''], '0': [u'', u'', u'Despondent: In low spirits from loss of hope or courage.', u'', ''], '2': [u'', u'', u'Melancholic: Feeling or expressing pensive sadness', u'', '']}	HVHA	['quit a bit', 'very much', 'very much']	[15.705164194107056, 36.11638426780701, 51.56282711029053]

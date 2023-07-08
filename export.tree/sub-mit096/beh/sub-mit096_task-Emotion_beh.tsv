@@ -1,0 +1,12 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	5.02	3.01	4.0	2.0	1.0	2.01	{}	n/a	n/a	n/a
+8.m4v	8.01	8.01	6.97	5.0	5.0	2.02	{'1': [u'Aroused: Sexually excited', u'', u'', u'', ''], '0': [u'', u'', u'', u'Love: An intense feeling of deep affection.', '']}	HVHA	['not at all', 'not at all']	[21.40074396133423, 48.71142292022705]
+12.m4v	9.0	8.03	7.99	5.0	5.0	5.0	{'0': [u'Joyous: Full of happiness and joy', u'', u'', u'', '']}	HVHA	['not at all']	[5.468087911605835]
+13.m4v	4.98	5.0	4.0	3.0	3.0	1.02	{}	n/a	n/a	n/a
+15.mp4	3.03	7.01	7.06	2.0	1.0	1.02	{'1': [u'', u'', u'', u'Compassionate: Feeling or showing sympathy and concern for others.', ''], '0': [u'', u'', u'', u'Compassionate: Feeling or showing sympathy and concern for others.', '']}	HVHA	['not at all', 'not at all']	[12.729247808456421, 41.60918593406677]
+5.mp4	3.03	7.03	6.99	4.0	4.0	2.01	{'0': [u'', u'Tense: Become tense, typically through anxiety or nervousness', u'', u'', '']}	HVHA	['not at all']	[35.89672088623047]
+neutral_2.mp4	4.98	6.08	5.0	3.0	2.0	1.0	{}	n/a	n/a	n/a
+2.m4v	2.99	7.06	7.03	2.0	4.0	1.0	{'0': [u'', u'Angry: Feeling or showing strong annoyance, displeasure, or hostility, full of anger', u'', u'', '']}	HVHA	['not at all']	[38.22790789604187]
+17.mp4	1.99	7.99	6.99	4.0	3.0	1.99	{'0': [u'Excited: Very enthusiastic and eager', u'', u'', u'', '']}	HVHA	['not at all']	[51.722230195999146]
+24.mp4	2.03	2.97	7.01	2.0	3.0	1.0	{'0': [u'', u'', u'Sad: Feeling or showing sorrow, unhappy', u'', '']}	HVHA	['not at all']	[44.566359996795654]
+7.mp4	8.05	8.01	7.99	4.0	3.0	2.02	{'0': [u'Excited: Very enthusiastic and eager', u'', u'', u'', '']}	HVHA	['not at all']	[51.2323260307312]

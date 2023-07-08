@@ -1,0 +1,121 @@
+onset	duration	trial_type	label	description
+20410.405286	1000.0	base	baseline	This is the Baseline Recording
+40411.156788	1000.0	bend	baseEnd	Baseline Ends here
+41723.654699	1000.0	trno	TrialNo	Showing Trial Number Here
+41842.405312	1000.0	fixL	Fixation Loop	Fixation Loop
+43682.656344	1000.0	stm	neutral_1_1	n/a
+58805.904631	1000.0	vlnc	Valence	Showing the Valence
+60836.405586	1000.0	arsl	Arousal	Showing the Arousal
+62222.655863	1000.0	dmns	Dominance	Showing the Dominance
+63157.404866	1000.0	lkng	Liking	Showing the Liking
+64020.156674	1000.0	fmrt	Familiarity	Showing the Familiarity
+65188.154764	1000.0	relv	Relevance	Showing the Relevance
+66497.406363	1000.0	trno	TrialNo	Showing Trial Number Here
+66601.904389	1000.0	fixL	Fixation Loop	Fixation Loop
+69768.405519	1000.0	stm	3_2	Showing the stimulation
+76619.904768	1000.0	clic	click	Click event have been performed
+84893.655404	1000.0	vlnc	Valence	Showing the Valence
+85537.999123	1000.0	IBEG	Impedances Begin	n/a
+86066.406034	1000.0	arsl	Arousal	Showing the Arousal
+86706.404574	1000.0	dmns	Dominance	Showing the Dominance
+87156.905048	1000.0	lkng	Liking	Showing the Liking
+87659.404334	1000.0	fmrt	Familiarity	Showing the Familiarity
+88424.656168	1000.0	relv	Relevance	Showing the Relevance
+89054.905716	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+89560.00004	1000.0	IEND	Impedances End	n/a
+94946.905039	1000.0	trno	TrialNo	Showing Trial Number Here
+95056.155603	1000.0	fixL	Fixation Loop	Fixation Loop
+97191.154584	1000.0	stm	2_3	Showing the stimulation
+101531.656086	1000.0	clic	click	Click event have been performed
+112317.156326	1000.0	vlnc	Valence	Showing the Valence
+113527.655695	1000.0	arsl	Arousal	Showing the Arousal
+114198.155981	1000.0	dmns	Dominance	Showing the Dominance
+114756.154362	1000.0	lkng	Liking	Showing the Liking
+115516.404714	1000.0	fmrt	Familiarity	Showing the Familiarity
+116534.655076	1000.0	relv	Relevance	Showing the Relevance
+117048.904952	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+121828.156337	1000.0	trno	TrialNo	Showing Trial Number Here
+121936.906502	1000.0	fixL	Fixation Loop	Fixation Loop
+123700.405285	1000.0	stm	7_4	Showing the stimulation
+137222.156022	1000.0	clic	click	Click event have been performed
+138824.405428	1000.0	vlnc	Valence	Showing the Valence
+139951.906353	1000.0	arsl	Arousal	Showing the Arousal
+140605.906025	1000.0	dmns	Dominance	Showing the Dominance
+141089.905612	1000.0	lkng	Liking	Showing the Liking
+141841.905657	1000.0	fmrt	Familiarity	Showing the Familiarity
+142124.000285	1000.0	IBEG	Impedances Begin	n/a
+142899.154499	1000.0	relv	Relevance	Showing the Relevance
+143547.654804	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+146133.000869	1000.0	IEND	Impedances End	n/a
+152327.405009	1000.0	trno	TrialNo	Showing Trial Number Here
+152427.404467	1000.0	fixL	Fixation Loop	Fixation Loop
+156101.655308	1000.0	stm	neutral_2_5	Showing the stimulation
+171227.15665	1000.0	vlnc	Valence	Showing the Valence
+172487.404291	1000.0	arsl	Arousal	Showing the Arousal
+173048.905469	1000.0	dmns	Dominance	Showing the Dominance
+173967.156373	1000.0	lkng	Liking	Showing the Liking
+174462.906551	1000.0	fmrt	Familiarity	Showing the Familiarity
+175238.656718	1000.0	relv	Relevance	Showing the Relevance
+176453.906111	1000.0	trno	TrialNo	Showing Trial Number Here
+176558.406651	1000.0	fixL	Fixation Loop	Fixation Loop
+179996.406008	1000.0	stm	13_6	Showing the stimulation
+183686.906006	1000.0	clic	click	Click event have been performed
+195121.155493	1000.0	vlnc	Valence	Showing the Valence
+196235.905029	1000.0	arsl	Arousal	Showing the Arousal
+196664.156578	1000.0	dmns	Dominance	Showing the Dominance
+197142.405342	1000.0	lkng	Liking	Showing the Liking
+197583.654709	1000.0	fmrt	Familiarity	Showing the Familiarity
+198037.406523	1000.0	relv	Relevance	Showing the Relevance
+198517.405428	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+203690.906335	1000.0	trno	TrialNo	Showing Trial Number Here
+203789.904993	1000.0	fixL	Fixation Loop	Fixation Loop
+206299.155112	1000.0	stm	24_7	Showing the stimulation
+212539.656367	1000.0	clic	click	Click event have been performed
+221424.905397	1000.0	vlnc	Valence	Showing the Valence
+223695.656005	1000.0	arsl	Arousal	Showing the Arousal
+225342.156831	1000.0	dmns	Dominance	Showing the Dominance
+225860.905275	1000.0	lkng	Liking	Showing the Liking
+226347.904745	1000.0	fmrt	Familiarity	Showing the Familiarity
+227153.15586	1000.0	relv	Relevance	Showing the Relevance
+227654.905804	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+232476.904895	1000.0	trno	TrialNo	Showing Trial Number Here
+232569.405902	1000.0	fixL	Fixation Loop	Fixation Loop
+234734.154772	1000.0	stm	9_8	Showing the stimulation
+249859.905057	1000.0	vlnc	Valence	Showing the Valence
+251158.155408	1000.0	arsl	Arousal	Showing the Arousal
+251529.904548	1000.0	dmns	Dominance	Showing the Dominance
+251925.154869	1000.0	lkng	Liking	Showing the Liking
+252365.405951	1000.0	fmrt	Familiarity	Showing the Familiarity
+252946.65657	1000.0	relv	Relevance	Showing the Relevance
+253712.655231	1000.0	trno	TrialNo	Showing Trial Number Here
+253811.905347	1000.0	fixL	Fixation Loop	Fixation Loop
+257110.406365	1000.0	stm	1_9	Showing the stimulation
+272236.654535	1000.0	vlnc	Valence	Showing the Valence
+273503.656313	1000.0	arsl	Arousal	Showing the Arousal
+274797.905982	1000.0	dmns	Dominance	Showing the Dominance
+275127.9057	1000.0	lkng	Liking	Showing the Liking
+276161.155477	1000.0	fmrt	Familiarity	Showing the Familiarity
+276570.655871	1000.0	relv	Relevance	Showing the Relevance
+277804.65642	1000.0	trno	TrialNo	Showing Trial Number Here
+277901.655994	1000.0	fixL	Fixation Loop	Fixation Loop
+280951.156653	1000.0	stm	15_10	Showing the stimulation
+291073.906515	1000.0	clic	click	Click event have been performed
+296077.65628	1000.0	vlnc	Valence	Showing the Valence
+297120.406106	1000.0	arsl	Arousal	Showing the Arousal
+297473.155148	1000.0	dmns	Dominance	Showing the Dominance
+297874.405235	1000.0	lkng	Liking	Showing the Liking
+298392.155394	1000.0	fmrt	Familiarity	Showing the Familiarity
+298815.156519	1000.0	relv	Relevance	Showing the Relevance
+299541.6563	1000.0	cate	Emotion_Categ	Showing the Emotion Categories
+299574.999511	1000.0	IBEG	Impedances Begin	n/a
+303330.000769	1000.0	IEND	Impedances End	n/a
+304628.904909	1000.0	trno	TrialNo	Showing Trial Number Here
+304731.406365	1000.0	fixL	Fixation Loop	Fixation Loop
+307142.404653	1000.0	stm	4_11	Showing the stimulation
+322266.404796	1000.0	vlnc	Valence	Showing the Valence
+323758.156411	1000.0	arsl	Arousal	Showing the Arousal
+324399.155751	1000.0	dmns	Dominance	Showing the Dominance
+325384.404883	1000.0	lkng	Liking	Showing the Liking
+327140.405215	1000.0	fmrt	Familiarity	Showing the Familiarity
+328066.406026	1000.0	relv	Relevance	Showing the Relevance
+328707.405366	1000.0	stop	Stop Event	n/a

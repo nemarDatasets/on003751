@@ -1,0 +1,12 @@
+stimuliName	valence	arousal	dominance	liking	familiarity	relevance	emotionCateg	Quadrant	FivePointScale	MouseClick
+neutral_1.mp4	5.04	2.49	7.74	2.0	2.0	2.04	{'0': [u'', u'', u'', u'Calm: Not showing or feeling nervousness, anger, or other strong emotions', '']}	HVHA	['not at all']	[40.000083208084106]
+5.mp4	2.67	6.1	2.49	2.0	2.0	1.0	{'0': [u'', u'Startled: Feeling or showing sudden shock or alarm.', u'', u'', '']}	HVHA	['not at all']	[8.452497959136963]
+15.mp4	2.74	6.31	3.26	2.0	2.0	1.28	{'1': [u'', u'', u'Miserable: wretchedly unhappy or uncomfortable', u'', ''], '0': [u'', u'', u'', u'Calm: Not showing or feeling nervousness, anger, or other strong emotions', ''], '2': [u'', u'Disgust: A feeling of revulsion or strong disapproval aroused by something unpleasant\n or offensiv', u'', u'', '']}	HVHA	['not at all', 'not at all', 'not at all']	[5.186888933181763, 21.997254133224487, 35.88629603385925]
+4.mp4	1.24	2.69	2.82	2.0	2.0	1.75	{'1': [u'', u'Frustrated: Feeling or expressing distress and annoyance resulting from an inability \nto change or achieve somethin', u'', u'', ''], '0': [u'', u'', u'Taken Aback: Shock or surprise someone.', u'', '']}	HVHA	['not at all', 'not at all']	[7.290414810180664, 44.03292489051819]
+6.mp4	5.04	3.05	7.74	2.0	2.0	2.05	{}	n/a	n/a	n/a
+neutral_2.mp4	4.94	3.44	7.66	2.0	1.0	1.22	{}	n/a	n/a	n/a
+17.mp4	4.04	3.9	4.02	3.0	4.0	1.99	{'0': [u'', u'Alarmed: An anxious awareness of danger', u'', u'', '']}	HVHA	['not at all']	[9.214453935623169]
+23.mp4	6.54	2.94	7.51	4.0	4.0	1.74	{}	n/a	n/a	n/a
+12.m4v	5.93	3.21	7.55	4.0	4.0	3.48	{}	n/a	n/a	n/a
+7.mp4	2.15	6.27	6.45	2.0	2.0	2.04	{'1': [u'', u'Alarmed: An anxious awareness of danger', u'', u'', ''], '0': [u'', u'', u'Dissatisfied: Not content or happy with something.', u'', '']}	HVHA	['not at all', 'not at all']	[23.720518827438354, 50.94770574569702]
+8.m4v	5.91	4.17	5.79	3.0	4.0	3.03	{}	n/a	n/a	n/a

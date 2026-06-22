@@ -1,7 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "Dataset on Emotion with Naturalistic Stimuli (DENS)",
+  "description": "The Dataset on Emotion with Naturalistic Stimuli (DENS) comprises multimodal physiological recordings from 40 participants exposed to emotionally evocative video stimuli. The dataset includes concurrent EEG, ECG, and EMG measurements alongside behavioral self-assessment ratings across multiple emotional dimensions (valence, arousal, dominance, liking, familiarity, relevance, and emotion category). This resource supports research on emotion recognition, affective neuroscience, and the neural correlates of emotional responses to naturalistic, contextually-rich stimuli.",
+  "methods_description": "EEG, ECG, and EMG data were recorded from 40 subjects during exposure to naturalistic emotion-inducing video stimuli. Participants provided self-assessment ratings on multiple scales (valence, arousal, dominance, liking, familiarity, relevance, and emotion category). Raw EEG data are provided in .set and .fdt formats with corresponding task event information.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -10,42 +12,6 @@
     "Uma Shanker Tiwary": {},
     "Narayanan Srinivasan": {}
   },
-  "related_identifiers": [
-    {
-      "identifier": "10.18112/openneuro.ds003751.v1.0.2",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
-    },
-    {
-      "identifier": "https://github.com/nemarDatasets/on003751",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on003751",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    }
-  ],
-  "resource_type_general": "Dataset",
-  "modalities": [
-    "beh",
-    "eeg"
-  ],
-  "resource_type_specific": "Neuroimaging Dataset",
-  "sizes": [
-    "0.0 KB (1 files)"
-  ],
-  "formats": [
-    ".fdt",
-    ".gitattributes",
-    ".json",
-    ".md",
-    ".set",
-    ".tsv"
-  ],
-  "description": "The Dataset on Emotion with Naturalistic Stimuli (DENS) comprises multimodal physiological recordings from 40 participants exposed to emotionally evocative video stimuli. The dataset includes concurrent EEG, ECG, and EMG measurements alongside behavioral self-assessment ratings of valence, arousal, dominance, liking, familiarity, relevance, and emotion category. This resource supports research on emotion recognition and the neural correlates of emotional responses to naturalistic, contextually-rich stimuli.",
-  "methods_description": "EEG, ECG, and EMG data were recorded from 40 subjects during exposure to naturalistic emotion-inducing video stimuli. Participants provided self-assessment ratings on multiple emotion-related scales (valence, arousal, dominance, liking, familiarity, relevance, and emotion category) following stimulus presentation. Raw EEG data are provided in .set and .fdt formats with corresponding task event information.",
   "keywords": [
     {
       "term": "EEG"
@@ -57,38 +23,52 @@
       "term": "naturalistic stimuli"
     },
     {
+      "term": "affective neuroscience"
+    },
+    {
       "term": "ECG"
     },
     {
       "term": "EMG"
     },
     {
-      "term": "affective neuroscience"
-    },
-    {
-      "term": "multimodal physiological recording"
-    },
-    {
-      "term": "video-based emotion induction"
-    },
-    {
-      "term": "naturalistic paradigm"
-    },
-    {
-      "term": "valence"
-    },
-    {
-      "term": "arousal"
-    },
-    {
-      "term": "dominance"
-    },
-    {
-      "term": "self-assessment emotion ratings"
-    },
-    {
-      "term": "video stimuli"
+      "term": "self-assessment scales"
     }
   ],
-  "source_hash": "2f4e03ddad2e9b249cf3df131a8ef73cfec8c18c806d1a9e2b99ef54b94de0c0"
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/nemarDatasets/on003751",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on003751",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds003751.v1.0.2",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    }
+  ],
+  "resource_type_general": "Dataset",
+  "resource_type_specific": "Neuroimaging Dataset",
+  "modalities": [
+    "beh",
+    "eeg"
+  ],
+  "sizes": [
+    "4.8 GB (77 files)"
+  ],
+  "formats": [
+    ".fdt",
+    ".gitattributes",
+    ".json",
+    ".md",
+    ".set",
+    ".tsv",
+    ".yml"
+  ],
+  "source_hash": "529bebaa271ae34793548f2b6b1c49ec3be62c0b63cc8245ae5e4217a9f787d1"
 }

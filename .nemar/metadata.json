@@ -1,33 +1,94 @@
 {
   "version": "2.0",
-  "dataset_id": "on003751",
-  "source": "openneuro",
-  "source_id": "ds003751",
+  "pipeline_stage": "enriched",
   "title": "Dataset on Emotion with Naturalistic Stimuli (DENS)",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Sudhakar Mishra": {},
     "Md. Asif": {},
     "Uma Shanker Tiwary": {},
     "Narayanan Srinivasan": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds003751.v1.0.2",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on003751",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on003751",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.4",
-  "recording_modality": [
+  "resource_type_general": "Dataset",
+  "modalities": [
     "beh",
     "eeg"
   ],
-  "datatypes": [
-    "beh",
-    "eeg"
+  "resource_type_specific": "Neuroimaging Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
   ],
-  "acknowledgements": "We wish to extend our sincere thanks to Prof. Narayanan Srinivasan, CBCS, University of Allahabad. He kindly gave the SM some very useful pieces of advice related to the ex- periment. Dr Sonia baloni ray, IIIT-Delhi, has introduced SM to the EEG technology and taught him how to use it. She demonstrated it to him by letting him participate in her attention study. Then, we would like to thank Mr Amit Ti- wary (then M.tech student), Mr Pravin Srivastav (then PhD candidate), and Ms Anandpreet Kaur (then PhD candidate) for helping us in conducting the validation study."
+  "formats": [
+    ".fdt",
+    ".gitattributes",
+    ".json",
+    ".md",
+    ".set",
+    ".tsv"
+  ],
+  "description": "The Dataset on Emotion with Naturalistic Stimuli (DENS) comprises multimodal physiological recordings from 40 participants exposed to emotionally evocative video stimuli. The dataset includes concurrent EEG, ECG, and EMG measurements alongside behavioral self-assessment ratings of valence, arousal, dominance, liking, familiarity, relevance, and emotion category. This resource supports research on emotion recognition and the neural correlates of emotional responses to naturalistic, contextually-rich stimuli.",
+  "methods_description": "EEG, ECG, and EMG data were recorded from 40 subjects during exposure to naturalistic emotion-inducing video stimuli. Participants provided self-assessment ratings on multiple emotion-related scales (valence, arousal, dominance, liking, familiarity, relevance, and emotion category) following stimulus presentation. Raw EEG data are provided in .set and .fdt formats with corresponding task event information.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "emotion recognition"
+    },
+    {
+      "term": "naturalistic stimuli"
+    },
+    {
+      "term": "ECG"
+    },
+    {
+      "term": "EMG"
+    },
+    {
+      "term": "affective neuroscience"
+    },
+    {
+      "term": "multimodal physiological recording"
+    },
+    {
+      "term": "video-based emotion induction"
+    },
+    {
+      "term": "naturalistic paradigm"
+    },
+    {
+      "term": "valence"
+    },
+    {
+      "term": "arousal"
+    },
+    {
+      "term": "dominance"
+    },
+    {
+      "term": "self-assessment emotion ratings"
+    },
+    {
+      "term": "video stimuli"
+    }
+  ],
+  "source_hash": "2f4e03ddad2e9b249cf3df131a8ef73cfec8c18c806d1a9e2b99ef54b94de0c0"
 }

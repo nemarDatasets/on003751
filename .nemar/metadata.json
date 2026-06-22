@@ -1,0 +1,33 @@
+{
+  "version": "2.0",
+  "dataset_id": "on003751",
+  "source": "openneuro",
+  "source_id": "ds003751",
+  "title": "Dataset on Emotion with Naturalistic Stimuli (DENS)",
+  "authors": {
+    "Sudhakar Mishra": {},
+    "Md. Asif": {},
+    "Uma Shanker Tiwary": {},
+    "Narayanan Srinivasan": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds003751.v1.0.2",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.4",
+  "recording_modality": [
+    "beh",
+    "eeg"
+  ],
+  "datatypes": [
+    "beh",
+    "eeg"
+  ],
+  "acknowledgements": "We wish to extend our sincere thanks to Prof. Narayanan Srinivasan, CBCS, University of Allahabad. He kindly gave the SM some very useful pieces of advice related to the ex- periment. Dr Sonia baloni ray, IIIT-Delhi, has introduced SM to the EEG technology and taught him how to use it. She demonstrated it to him by letting him participate in her attention study. Then, we would like to thank Mr Amit Ti- wary (then M.tech student), Mr Pravin Srivastav (then PhD candidate), and Ms Anandpreet Kaur (then PhD candidate) for helping us in conducting the validation study."
+}

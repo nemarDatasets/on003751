@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Dataset on Emotion with Naturalistic Stimuli (DENS)",
-  "description": "The Dataset on Emotion with Naturalistic Stimuli (DENS) comprises multimodal physiological recordings from 40 participants exposed to emotionally evocative video stimuli. The dataset includes concurrent EEG, ECG, and EMG measurements alongside behavioral self-assessment ratings across multiple emotional dimensions (valence, arousal, dominance, liking, familiarity, relevance, and emotion category). This resource supports research on emotion recognition, affective neuroscience, and the neural correlates of emotional responses to naturalistic, contextually-rich stimuli.",
-  "methods_description": "EEG, ECG, and EMG data were recorded from 40 subjects during exposure to naturalistic emotion-inducing video stimuli. Participants provided self-assessment ratings on multiple scales (valence, arousal, dominance, liking, familiarity, relevance, and emotion category). Raw EEG data are provided in .set and .fdt formats with corresponding task event information.",
+  "description": "The Dataset on Emotion with Naturalistic Stimuli (DENS) contains EEG, ECG and EMG recordings from 40 participants who were emotionally stimulated with naturalistic multimedia videos. The videos provide context for the situated conceptualization of emotions. Participants gave self-assessment ratings of valence, arousal, dominance, liking, familiarity, relevance and emotion category. The dataset also includes stimuli, code for data collection, validation and pre-processing.",
+  "methods_description": "Participants watched naturalistic emotion-eliciting multimedia videos while EEG, ECG and EMG were recorded. After each stimulus they gave feedback on self-assessment scales (valence, arousal, dominance, liking, familiarity, relevance, emotion category) with mouse clicks. Raw EEG is stored in EEGLAB .set/.fdt format with task events in TSV files. Python code was used for data collection and validation, and MATLAB for pre-processing.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -17,22 +17,25 @@
       "term": "EEG"
     },
     {
-      "term": "emotion recognition"
+      "term": "Electrocardiography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004562"
+    },
+    {
+      "term": "Electromyography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
+    },
+    {
+      "term": "Emotions",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004644"
     },
     {
       "term": "naturalistic stimuli"
     },
     {
       "term": "affective neuroscience"
-    },
-    {
-      "term": "ECG"
-    },
-    {
-      "term": "EMG"
-    },
-    {
-      "term": "self-assessment scales"
     }
   ],
   "related_identifiers": [
@@ -42,14 +45,14 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on003751",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
       "identifier": "10.18112/openneuro.ds003751.v1.0.2",
       "identifier_type": "DOI",
       "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on003751",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "resource_type_general": "Dataset",
@@ -59,7 +62,7 @@
     "eeg"
   ],
   "sizes": [
-    "4.8 GB (77 files)"
+    "4.46 GB (77 files)"
   ],
   "formats": [
     ".fdt",
